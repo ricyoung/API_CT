@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+Updated Wraper and Demo code 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+souce code from:https://github.com/jvfe/pytrials
+
+updated the code to pull and iterate over multiple pulls in order to put all the data on the site
+
